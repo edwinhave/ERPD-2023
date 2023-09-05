@@ -1,0 +1,31 @@
+! NOTE
+ODOO 9.0
+
+
+
+Request 
+
+http://localhost:8069/web/login
+
+Create DB
+
+Master Password= likmi
+Database name = erpd_2021110038
+email = admin
+pasword= likmi
+Country = Indonesia
+
+
+*! Teliti dalam database*
+
+
+
+Modul install!
+1. Accounting and Finance & wait
+2. Purchase Management & wait
+3. Sales Management & wait
+4. CRM & wait
+5. Employee Directory & wait
+6. Recruitment Process & wait
+
+
