@@ -29,3 +29,15 @@ Modul install!
 6. Recruitment Process & wait
 
 
+
+DB UPDATE
+1. EDIT COMPANY dan isi sesuai Data (gambar data1 &2) lalu save
+2. Setting -> Users -> administrator
+3. Edit -> centang Multi Currencies -> klik active -> form
+4. refresh/logout -> login lagi
+5. pilih menu Accounting -> Multi Currencies -> cari IDR -> klik IDR
+6. Edit -> centang active -> save -> klik currencies -> cari USD -> klik USD
+7. Edit -> uncheck active USD -> save
+8. kembali ke edit company
+9. pilih menu configuration
+10. Currency menu -> USD ganti ke IDR -> save
