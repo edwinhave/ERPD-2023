@@ -21,8 +21,8 @@ Country = Indonesia
 
 
 Modul install!
-1. Accounting and Finance & wait
-2. Purchase Management & wait
+1. Accounting and Finance & wait ✅
+2. Purchase Management & wait✅
 3. Sales Management & wait
 4. CRM & wait
 5. Employee Directory & wait
